@@ -19,7 +19,7 @@ fn main() {
 }
 ```
 Compile and run the program: 
-````bash
+````
 $ rustc main.rs
 $ ./main
 Hello World!
